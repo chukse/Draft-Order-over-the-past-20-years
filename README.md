@@ -23,7 +23,6 @@ The output is a plot titled "NFL Draft Success Over 20 Years", which visualizes 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the Apache License - see the LICENSE.md file for details.
 
-## Contact
-If you have any questions, please email me at [chuks@email.com](mailto:chuks@email.com).
+
